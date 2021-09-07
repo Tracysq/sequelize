@@ -1,5 +1,5 @@
 # squelize
-***
+
 ORM demo
 
 调用 API 自动执行 SQL 语句
